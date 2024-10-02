@@ -10,7 +10,7 @@
     "@testing-library/react": "13.4.0",
     "@testing-library/user-event": "13.5.0",
     "amazon-cognito-identity-js": "6.3.12",
-    "aws-amplify": "6.2.0",
+    "aws-amplify": "6.6.3",
     "aws-sdk": "2.1613.0",
     "dotenv": "16.4.5",
     "react": "^18.3.1",
