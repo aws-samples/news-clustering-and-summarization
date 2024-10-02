@@ -90,7 +90,7 @@ Below is a GIF that demostrates the solution in action.
 
 ![demo](artifacts/demo.gif)
 
-The demo demostrates the solution by sending articles to the Kinesis stream, and waiting those articles to be clustered and summarized. The web UI gets updated every 5 seconds reading the DynamoDB table which contains the clusters, articles and summaries.
+The demo demostrates the solution by sending articles to the Kinesis stream, and waiting those articles to be clustered and summarized. The solution will begin clustering once it hits 500 articles (this can be changed). The web UI gets updated every 5 seconds reading the DynamoDB table which contains the clusters, articles and summaries. 
 
 ## Tool Versions <a name="Versions"></a>
 
