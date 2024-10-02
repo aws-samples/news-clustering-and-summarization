@@ -1,0 +1,6 @@
+boto3 
+scikit-learn 
+scipy 
+numpy 
+joblib
+utils

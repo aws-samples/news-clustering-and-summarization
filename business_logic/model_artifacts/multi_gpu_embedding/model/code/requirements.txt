@@ -1,0 +1,6 @@
+accelerate==0.27.2
+transformers==4.38.2
+bitsandbytes==0.42.0
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.2.1
+huggingface-hub
