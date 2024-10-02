@@ -1,10 +1,5 @@
 #!/bin/bash
 
-STREAM_NAME="input-stream-newsedge-ally"
-PARTITION_KEY="a"
-FILE_PATH="./article_example.json"
-
-
 python put_records.py
 
 
